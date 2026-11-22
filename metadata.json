@@ -1,0 +1,6 @@
+{
+  "name": "Trading-Markt-Deep-Research",
+  "description": "Multi-Chart TradingView-Analyse, historische Marktdaten, Web- und Shorts-Recherche sowie strukturierte Gemini-Synthese.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
